@@ -59,7 +59,15 @@ kayitlariSil () {
 }
 
 Cikis () {
-	exit 0 
+	if (whiptail --yesno --defaultno "Are you sure?" 10 100) 
+	then
+		echo "Yes I am sure!"
+		exit 0
+	else
+		echo "No I am not sure!"
+		mainMenu
+	fi
+	
 }
 
 mainMenu	
