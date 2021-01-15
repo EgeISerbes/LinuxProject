@@ -14,6 +14,9 @@ A Project I have made for Linux
     <p><a href="https://github.com/EgeISerbes/LinuxProject/blob/main/KayitBulundu.png"> <img src=https://github.com/EgeISerbes/LinuxProject/raw/main/KayitBulundu.png></a></p>
     <p> Kayıt bulunamadığında :</p>
     <p><a href=https://github.com/EgeISerbes/LinuxProject/blob/main/KayitBulunamadi.png> <img src=https://github.com/EgeISerbes/LinuxProject/raw/main/KayitBulunamadi.png></a></p>
+    <p> Programdan çıkış yapmak istediğinizde , program "emin misiniz" penceresi getirir. Eğer devam etmek istiyorsanız hayıra, çıkmak istiyorsanız evete basarak programı kapatabilirsiniz</p>
+    <p><a href=https://github.com/EgeISerbes/LinuxProject/blob/main/Ckiis.png> <img src=https://github.com/EgeISerbes/LinuxProject/raw/main/Ckiis.png></a></p>
+    
     
     
     
